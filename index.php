@@ -8,7 +8,10 @@
 <body>
 
 <header>
+    <div class="logo">
+    <img src="img/logo.png" alt="Logo PixelStore">
     <h1>PixelStore</h1>
+</div>
 
     <nav>
         <a href="#">Home</a>
@@ -25,22 +28,21 @@
 <section class="produtos">
 
     <div class="card">
-        <img src="img/mouse.jpg" alt="">
-        <h3>Mouse Gamer</h3>
-        <p>R$ 149,90</p>
-    </div>
+    <img src="img/mouse.jpg" alt="Mouse Gamer">
+    <h3>Mouse Gamer</h3>
+    <p>R$ 149,90</p>
+</div>
 
-    <div class="card">
-        <img src="img/teclado.jpg" alt="">
-        <h3>Teclado Mecânico</h3>
-        <p>R$ 299,90</p>
-    </div>
+<div class="card">
+    <img src="img/teclado.jpg" alt="Teclado Mecânico">
+    <h3>Teclado Mecânico</h3>
+    <p>R$ 299,90</p>
+</div>
 
-    <div class="card">
-        <img src="img/headset.jpg" alt="">
-        <h3>Headset Gamer</h3>
-        <p>R$ 199,90</p>
-    </div>
+<div class="card">
+    <img src="img/headset.jpg" alt="Headset Gamer">
+    <p>R$ 199,90</p>
+</div>
 
 </section>
 
